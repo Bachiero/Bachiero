@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bachiero
+- 👀 I’m interested in IOS Development
+- 🌱 I’m currently learning Swift
+- 📫 How to reach me: fb.com/bachiero / bitsadze.bachuki@gmail.com
